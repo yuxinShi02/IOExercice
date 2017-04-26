@@ -1,0 +1,4 @@
+c:o:u:c:o:u:
+Java Copy File – Stream
+This is the conventional way of file copy in java, here we create two Files, source and destination.
+Then we create InputStream from source and write it to destination file using OutputStream for java copy file operation.
